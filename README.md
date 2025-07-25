@@ -27,3 +27,17 @@ A[Sensor Data Acquisition] --> B[Microcontroller Processing]
 B --> C[Wi-Fi Transmission]
 C --> D[Cloud Database / App Dashboard]
 D --> E[User Alerts & Analytics]
+```
+## 📑 Documentation
+
+This project was also published in **IEEE Xplore** under the title:  
+**“IoT-Based Air Quality Detection in Truck Cabin”**  
+📎 [(https://ieeexplore.ieee.org/document/10170384)]
+
+---
+
+## 🚀 Future Scope
+
+- 🗺️ **GPS-Integrated Air Quality Mapping**: Track and record AQI across routes for real-time mapping.
+- ☀️ **Solar-Powered Module**: Enhance system sustainability and enable off-grid operation.
+- 🧠 **Predictive Health Analytics**: Use historical AQ data to generate driver health insights and early warnings.
